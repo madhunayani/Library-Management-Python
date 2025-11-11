@@ -197,9 +197,9 @@ Enter author name to search: Coelho
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+**Madhu Nayani**
+- GitHub: [@madhunayani](https://github.com/madhunayani)
+- Email: madhunayani12@gmail.com
 
 ## 🎯 Assignment Details
 
@@ -217,5 +217,3 @@ This project is for educational purposes as part of a backend development assign
 
 **Built with ❤️ using Python**
 ```
-
-***
