@@ -216,4 +216,3 @@ This project is for educational purposes as part of a backend development assign
 ---
 
 **Built with ❤️ using Python**
-```
